@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/asadprodhan/blastdbbuilder/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0"></a>
+  <a href="https://github.com/asadprodhan/blastdbbuilder_container/tree/main#GPL-3.0-1-ov-file"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0"></a>
   <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID"></a>
   <a href="https://doi.org/10.5281/zenodo.18933806"><img src="https://zenodo.org/badge/1177535848.svg" alt="DOI"></a>
 </p>
