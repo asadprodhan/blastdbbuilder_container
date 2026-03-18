@@ -11,7 +11,7 @@ RUN micromamba install -y -n base -c conda-forge -c bioconda \
       wget \
  && micromamba clean -a -y
 
-RUN micromamba run -n base pip install --no-cache-dir blastdbbuilder==1.0.5
+RUN micromamba run -n base pip install --no-cache-dir blastdbbuilder==1.1.0
 
 USER root
 
